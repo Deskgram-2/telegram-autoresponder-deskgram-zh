@@ -1,0 +1,10 @@
+{
+  "reply_mode": "ai",
+  "base_reply": "Здравствуйте. Сейчас подскажу.",
+  "ignore_if_contains": [
+    "спам",
+    "не интересно"
+  ],
+  "collector_enabled": true,
+  "max_replies_per_dialog": 3
+}
