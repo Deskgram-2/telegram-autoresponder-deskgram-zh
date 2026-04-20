@@ -12,6 +12,24 @@
 
 如果你想先比较规则回复和 AI 回复的组合方式，可以先打开 web preview，在浏览器里看清排除项、AI 区块和回复规则，再决定是否继续安装。
 
+## 界面重点
+
+### 主工作区
+
+![自动回复主界面](assets/screenshots/autoresponder__main__zh.png)
+
+### 排除项
+
+![排除项](assets/screenshots/autoresponder__exceptions__zh.png)
+
+### AI 设置
+
+![AI 设置](assets/screenshots/autoresponder__ai-settings__zh.png)
+
+### 回复规则
+
+![回复规则](assets/screenshots/autoresponder__rules__zh.png)
+
 ## 模块简介
 
 | 参数 | 内容 |
