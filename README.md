@@ -1,14 +1,14 @@
-# Deskgram 2 自动回复
+﻿# Deskgram 2 自动回复
 
 自动回复是 Deskgram 2 中用于 Telegram 来信自动处理的模块。它可以把模板回复、AI 回复、排除规则和后台回复逻辑组合在一起，帮助你在不持续手动值守的情况下承接更多对话。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=cn)
 
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=cn)
 
 如果你想先比较规则回复和 AI 回复的组合方式，可以先打开 web preview，在浏览器里看清排除项、AI 区块和回复规则，再决定是否继续安装。
 
@@ -115,4 +115,5 @@
 
 - [Deskgram 2 官网](https://deskgram2.com/)
 - [Deskgram 2 Telegram Bot](https://t.me/DG2welcomebot)
-- [打开自动回复 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers)
+- [打开自动回复 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fanswers&lang=cn)
+
